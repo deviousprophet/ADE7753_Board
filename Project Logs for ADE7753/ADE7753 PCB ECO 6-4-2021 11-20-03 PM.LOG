@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DIN Pin=L2-2
+Removed Pin From Net: NetName=DOUT Pin=L2-4
+Added Pin To Net: NetName=DOUT Pin=L2-2
+Added Pin To Net: NetName=DIN Pin=L2-4
+Change Net Name : Old Net Name=MISO New Net Name=MOSI
+Change Net Name : Old Net Name=MOSI New Net Name=MISO
