@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=IRQ Pin=L1-4
-Removed Pin From Net: NetName=ZX Pin=L1-12
-Added Pin To Net: NetName=ZX Pin=L1-4
-Added Pin To Net: NetName=IRQ Pin=L1-12
-Change Net Name : Old Net Name=IRQ_5 New Net Name=ZX_5
-Change Net Name : Old Net Name=ZX_5 New Net Name=IRQ_5
